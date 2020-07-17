@@ -1,0 +1,1 @@
+![large dog walking on two legs](https://i.giphy.com/media/g53x4ZCPtsipq/source.gif)

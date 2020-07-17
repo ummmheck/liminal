@@ -1,0 +1,9 @@
+$secondary: #343332;
+
+.btn-secondary:hover {
+  background-color: lighten(#343332, 10%) !important;
+}
+
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';
+

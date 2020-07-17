@@ -1,0 +1,546 @@
+[{
+    "type": "FeatureCollection",
+    "query": [
+      "denver",
+      "cheeseman",
+      "park"
+    ],
+    "features": [
+      {
+        "id": "poi.3229815424387",
+        "type": "Feature",
+        "place_type": [
+          "poi"
+        ],
+        "relevance": 0.972024,
+        "properties": {
+          "landmark": true,
+          "wikidata": "Q2961964",
+          "address": "1599 E. 8th Ave.",
+          "category": "park, leisure"
+        },
+        "text": "Cheesman Park",
+        "place_name": "Cheesman Park, 1599 E. 8th Ave., Denver, Colorado 80218, United States",
+        "center": [
+          -104.96607025,
+          39.732571750000005
+        ],
+        "geometry": {
+          "coordinates": [
+            -104.96607025,
+            39.732571750000005
+          ],
+          "type": "Point"
+        },
+        "context": [
+          {
+            "id": "neighborhood.292197",
+            "text": "Central East Denver"
+          },
+          {
+            "id": "postcode.12868933441316480",
+            "text": "80218"
+          },
+          {
+            "id": "place.10256295100046320",
+            "wikidata": "Q16554",
+            "text": "Denver"
+          },
+          {
+            "id": "region.10094095868017490",
+            "short_code": "US-CO",
+            "wikidata": "Q1261",
+            "text": "Colorado"
+          },
+          {
+            "id": "country.9053006287256050",
+            "short_code": "us",
+            "wikidata": "Q30",
+            "text": "United States"
+          }
+        ]
+      },
+      {
+        "id": "poi.3358664497868",
+        "type": "Feature",
+        "place_type": [
+          "poi"
+        ],
+        "relevance": 0.972024,
+        "properties": {
+          "landmark": true,
+          "address": "1599 E. 8th Ave.",
+          "category": "tracks, gym, fitness center, leisure"
+        },
+        "text": "Cheesman Park Walking/Running Path",
+        "place_name": "Cheesman Park Walking/Running Path, 1599 E. 8th Ave., Denver, Colorado 80218, United States",
+        "center": [
+          -104.968357,
+          39.730742
+        ],
+        "geometry": {
+          "coordinates": [
+            -104.968357,
+            39.730742
+          ],
+          "type": "Point"
+        },
+        "context": [
+          {
+            "id": "neighborhood.292197",
+            "text": "Central East Denver"
+          },
+          {
+            "id": "postcode.12868933441316480",
+            "text": "80218"
+          },
+          {
+            "id": "place.10256295100046320",
+            "wikidata": "Q16554",
+            "text": "Denver"
+          },
+          {
+            "id": "region.10094095868017490",
+            "short_code": "US-CO",
+            "wikidata": "Q1261",
+            "text": "Colorado"
+          },
+          {
+            "id": "country.9053006287256050",
+            "short_code": "us",
+            "wikidata": "Q30",
+            "text": "United States"
+          }
+        ]
+      },
+      {
+        "id": "poi.2757369076696",
+        "type": "Feature",
+        "place_type": [
+          "poi"
+        ],
+        "relevance": 0.972024,
+        "properties": {
+          "landmark": true,
+          "address": "1245 Race St",
+          "category": "apartment building, condominiums, residential, building"
+        },
+        "text": "Cheesman Park Condominiums",
+        "place_name": "Cheesman Park Condominiums, 1245 Race St, Denver, Colorado 80206, United States",
+        "center": [
+          -104.963768,
+          39.735836
+        ],
+        "geometry": {
+          "coordinates": [
+            -104.963768,
+            39.735836
+          ],
+          "type": "Point"
+        },
+        "context": [
+          {
+            "id": "neighborhood.292197",
+            "text": "Central East Denver"
+          },
+          {
+            "id": "postcode.10484780195016200",
+            "text": "80206"
+          },
+          {
+            "id": "place.10256295100046320",
+            "wikidata": "Q16554",
+            "text": "Denver"
+          },
+          {
+            "id": "region.10094095868017490",
+            "short_code": "US-CO",
+            "wikidata": "Q1261",
+            "text": "Colorado"
+          },
+          {
+            "id": "country.9053006287256050",
+            "short_code": "us",
+            "wikidata": "Q30",
+            "text": "United States"
+          }
+        ]
+      },
+      {
+        "id": "poi.2181843432964",
+        "type": "Feature",
+        "place_type": [
+          "poi"
+        ],
+        "relevance": 0.972024,
+        "properties": {
+          "landmark": true,
+          "address": "1599 E 8th Ave",
+          "category": "playground, leisure"
+        },
+        "text": "Cheesman Park Playground",
+        "place_name": "Cheesman Park Playground, 1599 E 8th Ave, Denver, Colorado 80218, United States",
+        "center": [
+          -104.968106,
+          39.733271
+        ],
+        "geometry": {
+          "coordinates": [
+            -104.968106,
+            39.733271
+          ],
+          "type": "Point"
+        },
+        "context": [
+          {
+            "id": "neighborhood.292197",
+            "text": "Central East Denver"
+          },
+          {
+            "id": "postcode.12868933441316480",
+            "text": "80218"
+          },
+          {
+            "id": "place.10256295100046320",
+            "wikidata": "Q16554",
+            "text": "Denver"
+          },
+          {
+            "id": "region.10094095868017490",
+            "short_code": "US-CO",
+            "wikidata": "Q1261",
+            "text": "Colorado"
+          },
+          {
+            "id": "country.9053006287256050",
+            "short_code": "us",
+            "wikidata": "Q30",
+            "text": "United States"
+          }
+        ]
+      },
+      {
+        "id": "poi.2181843391274",
+        "type": "Feature",
+        "place_type": [
+          "poi"
+        ],
+        "relevance": 0.972024,
+        "properties": {
+          "landmark": true,
+          "address": "1601 E 14th Ave",
+          "category": "apartment building, condominiums, residential, building"
+        },
+        "text": "Cheesman Park Apartments",
+        "place_name": "Cheesman Park Apartments, 1601 E 14th Ave, Denver, Colorado 80218, United States",
+        "center": [
+          -104.968146,
+          39.735206
+        ],
+        "geometry": {
+          "coordinates": [
+            -104.968146,
+            39.735206
+          ],
+          "type": "Point"
+        },
+        "context": [
+          {
+            "id": "neighborhood.292197",
+            "text": "Central East Denver"
+          },
+          {
+            "id": "postcode.12868933441316480",
+            "text": "80218"
+          },
+          {
+            "id": "place.10256295100046320",
+            "wikidata": "Q16554",
+            "text": "Denver"
+          },
+          {
+            "id": "region.10094095868017490",
+            "short_code": "US-CO",
+            "wikidata": "Q1261",
+            "text": "Colorado"
+          },
+          {
+            "id": "country.9053006287256050",
+            "short_code": "us",
+            "wikidata": "Q30",
+            "text": "United States"
+          }
+        ]
+      }
+    ],
+    "attribution": "NOTICE: © 2019 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+  },
+  {
+    "type": "FeatureCollection",
+    "query": [
+      "denver",
+      "fairmount",
+      "cemetary"
+    ],
+    "features": [
+      {
+        "id": "poi.2052994398637",
+        "type": "Feature",
+        "place_type": [
+          "poi"
+        ],
+        "relevance": 0.976019,
+        "properties": {
+          "landmark": true,
+          "wikidata": "Q5430638",
+          "address": "430 S Quebec St",
+          "category": "cemetery, graveyard, mausoleum, landuse"
+        },
+        "text": "Fairmount Cemetery",
+        "place_name": "Fairmount Cemetery, 430 S Quebec St, Denver, Colorado 80247, United States",
+        "center": [
+          -104.8975385,
+          39.706499
+        ],
+        "geometry": {
+          "coordinates": [
+            -104.8975385,
+            39.706499
+          ],
+          "type": "Point"
+        },
+        "context": [
+          {
+            "id": "neighborhood.294223",
+            "text": "Southeastern Denver"
+          },
+          {
+            "id": "postcode.5161125358342420",
+            "text": "80247"
+          },
+          {
+            "id": "place.10256295100046320",
+            "wikidata": "Q16554",
+            "text": "Denver"
+          },
+          {
+            "id": "region.10094095868017490",
+            "short_code": "US-CO",
+            "wikidata": "Q1261",
+            "text": "Colorado"
+          },
+          {
+            "id": "country.9053006287256050",
+            "short_code": "us",
+            "wikidata": "Q30",
+            "text": "United States"
+          }
+        ]
+      },
+      {
+        "id": "address.6412779008618006",
+        "type": "Feature",
+        "place_type": [
+          "address"
+        ],
+        "relevance": 0.638148,
+        "properties": {
+          "accuracy": "street"
+        },
+        "text": "County Route 250/30",
+        "place_name": "County Route 250/30, Fairmont, West Virginia 26554, United States",
+        "matching_text": "Cemetary Access Road",
+        "matching_place_name": "Cemetary Access Road, Fairmont, West Virginia 26554, United States",
+        "center": [
+          -80.1909279,
+          39.4090254
+        ],
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.1909279,
+            39.4090254
+          ]
+        },
+        "context": [
+          {
+            "id": "postcode.2573481812837440",
+            "text": "26554"
+          },
+          {
+            "id": "place.14224186944550250",
+            "wikidata": "Q2001693",
+            "text": "Fairmont"
+          },
+          {
+            "id": "region.6405858955792090",
+            "short_code": "US-WV",
+            "wikidata": "Q1371",
+            "text": "West Virginia"
+          },
+          {
+            "id": "country.9053006287256050",
+            "short_code": "us",
+            "wikidata": "Q30",
+            "text": "United States"
+          }
+        ]
+      },
+      {
+        "id": "poi.2851858285535",
+        "type": "Feature",
+        "place_type": [
+          "poi"
+        ],
+        "relevance": 0.635833,
+        "properties": {
+          "landmark": true,
+          "address": "4400 W Kenyon Ave",
+          "category": "cemetery, graveyard, mausoleum, landuse"
+        },
+        "text": "Fort Logan National Cemetery",
+        "place_name": "Fort Logan National Cemetery, 4400 W Kenyon Ave, Denver, Colorado 80236, United States",
+        "center": [
+          -105.050883,
+          39.645717
+        ],
+        "geometry": {
+          "coordinates": [
+            -105.050883,
+            39.645717
+          ],
+          "type": "Point"
+        },
+        "context": [
+          {
+            "id": "neighborhood.289534",
+            "text": "Southwestern Denver"
+          },
+          {
+            "id": "postcode.14495359608543430",
+            "text": "80236"
+          },
+          {
+            "id": "place.10256295100046320",
+            "wikidata": "Q16554",
+            "text": "Denver"
+          },
+          {
+            "id": "region.10094095868017490",
+            "short_code": "US-CO",
+            "wikidata": "Q1261",
+            "text": "Colorado"
+          },
+          {
+            "id": "country.9053006287256050",
+            "short_code": "us",
+            "wikidata": "Q30",
+            "text": "United States"
+          }
+        ]
+      },
+      {
+        "id": "poi.2181843469852",
+        "type": "Feature",
+        "place_type": [
+          "poi"
+        ],
+        "relevance": 0.635833,
+        "properties": {
+          "landmark": true,
+          "address": "5201 Brighton Blvd",
+          "category": "cemetery, graveyard, mausoleum, landuse"
+        },
+        "text": "Riverside Cemetery",
+        "place_name": "Riverside Cemetery, 5201 Brighton Blvd, Denver, Colorado 80022, United States",
+        "center": [
+          -104.962498,
+          39.791613
+        ],
+        "geometry": {
+          "coordinates": [
+            -104.962498,
+            39.791613
+          ],
+          "type": "Point"
+        },
+        "context": [
+          {
+            "id": "postcode.9162199126560240",
+            "text": "80022"
+          },
+          {
+            "id": "place.8555117064046321",
+            "text": "Denver"
+          },
+          {
+            "id": "region.10094095868017490",
+            "short_code": "US-CO",
+            "wikidata": "Q1261",
+            "text": "Colorado"
+          },
+          {
+            "id": "country.9053006287256050",
+            "short_code": "us",
+            "wikidata": "Q30",
+            "text": "United States"
+          }
+        ]
+      },
+      {
+        "id": "poi.2869038155860",
+        "type": "Feature",
+        "place_type": [
+          "poi"
+        ],
+        "relevance": 0.635833,
+        "properties": {
+          "landmark": true,
+          "address": "4345 W 46th Ave",
+          "category": "cemetery, graveyard, mausoleum, landuse"
+        },
+        "text": "Olinger Moore Howard Chapel",
+        "place_name": "Olinger Moore Howard Chapel, 4345 W 46th Ave, Denver, Colorado 80212, United States",
+        "center": [
+          -105.043715,
+          39.780542
+        ],
+        "geometry": {
+          "coordinates": [
+            -105.043715,
+            39.780542
+          ],
+          "type": "Point"
+        },
+        "context": [
+          {
+            "id": "neighborhood.295493",
+            "text": "Northwestern Denver"
+          },
+          {
+            "id": "postcode.16323856880092960",
+            "text": "80212"
+          },
+          {
+            "id": "place.10256295100046320",
+            "wikidata": "Q16554",
+            "text": "Denver"
+          },
+          {
+            "id": "region.10094095868017490",
+            "short_code": "US-CO",
+            "wikidata": "Q1261",
+            "text": "Colorado"
+          },
+          {
+            "id": "country.9053006287256050",
+            "short_code": "us",
+            "wikidata": "Q30",
+            "text": "United States"
+          }
+        ]
+      }
+    ],
+    "attribution": "NOTICE: © 2019 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+  }
+]
